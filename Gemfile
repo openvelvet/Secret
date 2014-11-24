@@ -16,6 +16,7 @@ gem 'pundit'
 gem 'sendgrid'
 gem 'simple_form'
 gem 'upmin-admin'
+gem "figaro"
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_20]
